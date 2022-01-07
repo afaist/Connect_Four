@@ -1,0 +1,1 @@
+fun main() = println(readLine()!!.toBigInteger() * "9223372036854775808".toBigInteger())

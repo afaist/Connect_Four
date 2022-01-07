@@ -1,0 +1,1 @@
+fun solution(first: Set<String>, second: MutableList<String>) = first.containsAll(second)

@@ -1,0 +1,1 @@
+fun solution(strings: MutableList<String>) = strings.toSet()

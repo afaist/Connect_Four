@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Connect Four/task/build/
+/Connect Four/task/out/
+/Connect Four/task/out/production/classes/
+/Topics/BigInteger/Simple expression/out/
+/Topics/BigInteger/Simple expression/out/production/classes/
+/Topics/Floating-point types/Evaluate an expression/out/
+/Topics/Floating-point types/Evaluate an expression/out/production/classes/
+/Topics/If expression/Queens/out/
+/Topics/If expression/Queens/out/production/classes/
+/Topics/Nested and inner classes/New Inner class/out/
+/Topics/Nested and inner classes/New Inner class/out/production/classes/
+/Topics/When expression/String processor/out/
+/Topics/When expression/String processor/out/production/classes/

@@ -1,0 +1,1 @@
+fun main() = println(DoubleArray(3) { readLine()!!.toDouble() }.run { (this[2] - this[1]) / this[0] })

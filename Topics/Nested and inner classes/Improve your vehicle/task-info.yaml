@@ -1,0 +1,26 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    class Vehicle {
+        // add name
+
+        // create constructor
+
+        inner class Engine {
+            // add horsePower
+
+            // create constructor
+
+            fun start() {
+                println("RRRrrrrrrr....")
+            }
+
+            // create function printHorsePower()
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14728#comment
+status: Solved
+record: -1

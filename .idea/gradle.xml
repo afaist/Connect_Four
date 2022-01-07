@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Connect Four/task" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Exabytes" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Incorrect declarations" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Incorrect lines" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Max" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Percentage" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Simple expression" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Area of a circle" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Celsius to Fahrenheit" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Difference between two doubles" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Distance" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Evaluate an expression" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Find X" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Liquid pressure" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/What is the result?" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/What is the result? (1)" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/What is the result? (2)" />
+            <option value="$PROJECT_DIR$/Topics/Getting substrings/Case insensitive" />
+            <option value="$PROJECT_DIR$/Topics/Getting substrings/Exchange" />
+            <option value="$PROJECT_DIR$/Topics/Getting substrings/From A to B" />
+            <option value="$PROJECT_DIR$/Topics/Getting substrings/Get the world" />
+            <option value="$PROJECT_DIR$/Topics/Getting substrings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Getting substrings/Void" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Boxes" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Check a number is positive" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Interval" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Knights" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Leap year" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Number dividers" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Positive, Negative or Zero" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Queens" />
+            <option value="$PROJECT_DIR$/Topics/If expression/The max of three numbers" />
+            <option value="$PROJECT_DIR$/Topics/If expression/The max of two numbers without else-branch" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Theory" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Triangle" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Christmas tree" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Clothing problem" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Heroes and villains" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Improve your vehicle" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/New Inner class" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Why do we need inner classes?" />
+            <option value="$PROJECT_DIR$/Topics/Set/Conversion" />
+            <option value="$PROJECT_DIR$/Topics/Set/Element problem" />
+            <option value="$PROJECT_DIR$/Topics/Set/Subtraction" />
+            <option value="$PROJECT_DIR$/Topics/Set/The truth is..." />
+            <option value="$PROJECT_DIR$/Topics/Set/Theory" />
+            <option value="$PROJECT_DIR$/Topics/When expression/A simple calculator" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Direction" />
+            <option value="$PROJECT_DIR$/Topics/When expression/FTN-Numbers" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Find the output" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Find the output (1)" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Floor-space of the room" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Harry Potter" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Just checking" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Shape" />
+            <option value="$PROJECT_DIR$/Topics/When expression/String processor" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Strings as objects" />
+            <option value="$PROJECT_DIR$/Topics/When expression/The army of units" />
+            <option value="$PROJECT_DIR$/Topics/When expression/The number of digits" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
